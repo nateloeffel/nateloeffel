@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Streakuh - A snapchat automation tool, and Edith - A voice based chat assistant that is actually useful.<br>👯 I’m looking to collaborate on [Edith](https://github.com/nateloeffel/edith-util)!<br>🌱 I’m currently learning how to containerize automation frameworks!<br>💬 Ask me about any of my projects!
+🔭 I’m currently working on Streakuh - A snapchat automation tool, and [Edith](https://github.com/nateloeffel/edith-util) - A voice based chat assistant that is actually useful.<br>👯 I’m looking to collaborate on [Edith](https://github.com/nateloeffel/edith-util)!<br>🌱 I’m currently learning how to containerize automation frameworks!<br>💬 Ask me about any of my projects!
 
 
 ## 🌐 Socials:
