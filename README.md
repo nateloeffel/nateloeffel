@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Streaksaver - A snapchat automation tool<br>🌱 I’m currently learning how to containerize automation frameworks!<br>💬 Ask me about any of my projects!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nateloeffel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nateloeffel) 
 
