@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Streaksaver - A snapchat automation tool, and [Edith](https://github.com/nateloeffel/edith-util) - A voice based chat assistant that is actually useful.<br>👯 I’m looking to collaborate on [Edith](https://github.com/nateloeffel/edith-util)!<br>🌱 I’m currently learning how to containerize automation frameworks!<br>💬 Ask me about any of my projects!
+🔭 I’m currently working on Streaksaver - A snapchat automation tool<br>🌱 I’m currently learning how to containerize automation frameworks!<br>💬 Ask me about any of my projects!
 
 
 ## 🌐 Socials:
@@ -36,6 +36,8 @@ Google Cloud Provider
 
 ### UI/UX:
 Adobe XD
+Adobe Illustrator
+Adobe Photoshop
 Figma
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nateloeffel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
